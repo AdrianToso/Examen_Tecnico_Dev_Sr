@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Examen_Tecnico_Dev_Sr": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
